@@ -1,11 +1,16 @@
 # freeCodeCamp-practice
 
-### 📅 Jan 20, 2026
+markdown
+
+<details>
+### <summary>📅 Jan 20, 2026 - HTML Basics(Images & Links)</summary>
 - **Today's Topic:** HTML Basics (Images & Links)
 - **What I Learned:** - How to embed images using the `<img>` tag.
   - How to create hyperlinks to other pages using the `<a>` tag.
- 
-### 📅 Jan 24, 2026
+  </details>
+
+ <details>   
+<Summary>### 📅 Jan 24, 2026 - Cat</Summary>
 <!DOCTYPE html>
 
 <html lang="en">
@@ -53,3 +58,4 @@
     </footer>
   </body>
 </html>
+</details>
