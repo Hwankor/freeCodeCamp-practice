@@ -10,7 +10,7 @@ markdown
   </details>
 
  <details>   
-<Summary>### 📅 Jan 24, 2026 - Cat</Summary>
+### <Summary>📅 Jan 24, 2026 - Cat</Summary>
 <!DOCTYPE html>
 
 <html lang="en">
