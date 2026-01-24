@@ -1,29 +1,45 @@
-# 📚 freeCodeCamp Learning Journey
+# 📚 My Web Development Journey
 
-This is where I record my progress as I learn web development.
+Welcome! This repository tracks my daily progress through the **freeCodeCamp** curriculum.
 
-## 🍰 Live Demo
-- [My coding practicing link](https://hwankor.github.io/freeCodeCamp-practice/)
-*(Click the link above to see the actual website!)*
+## 🚀 Live Demo
+> **[Click Here to view my Chocolate Cake Recipe Page](https://hwankor.github.io/freeCodeCamp-practice/)**
+> *Experience the actual rendered version of my code!*
 
 ---
 
-## 🗓️ Learning Log
+## 🗓️ Weekly Learning Log
+
+| Date | Topic | Status |
+| :--- | :--- | :--- |
+| 2026-01-20 | HTML Basics | ✅ Completed |
+| 2026-01-24 | Cat Photo App | ✅ Completed |
+| 2026-01-25 | Recipe Project | ✅ Completed |
+
+<br>
+
+### 🔍 Detailed Learning Notes
 
 <details>
-<summary>✅ 2026-01-20: HTML Basics (Images & Links)</summary>
+<summary><b>[2026-01-20] HTML Fundamentals</b></summary>
 
-- **What I Learned:** How to embed images using the `<img>` tag and create hyperlinks using the `<a>` tag.
+- **Core Concept:** Understanding the web structure.
+- **Key Tags:** Used `<img>` for visuals and `<a>` for navigation between pages.
 </details>
 
 <details>
-<summary>✅ 2026-01-24: Cat Photo App</summary>
+<summary><b>[2026-01-24] Building a Cat Photo App</b></summary>
 
-- **What I Learned:** How to use lists (`<ul>`, `<ol>`) and organize content into sections.
+- **Core Concept:** Organizing content logically.
+- **Key Tags:** Mastered lists (`<ul>`, `<ol>`) and layout elements like `<section>`.
 </details>
 
 <details>
-<summary>✅ 2026-01-25: Chocolate Cake Recipe</summary>
+<summary><b>[2026-01-25] Chocolate Cake Recipe Project</b></summary>
 
-- **What I Learned:** Building a full page structure
+- **Core Concept:** Real-world application of HTML.
+- **Key Tags:** Combined all previous tags into a complete, structured recipe layout.
 </details>
+
+---
+*Last updated: Jan 2026*
