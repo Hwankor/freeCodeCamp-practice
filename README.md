@@ -1,104 +1,29 @@
-# freeCodeCamp-practice
+# 📚 freeCodeCamp Learning Journey
 
-markdown
+This is where I record my progress as I learn web development.
+
+## 🍰 Live Demo
+- [View my Chocolate Cake Recipe Page](https://hwankor.github.io/freeCodeCamp-practice/)
+*(Click the link above to see the actual website!)*
+
+---
+
+## 🗓️ Learning Log
 
 <details>
-### <summary>📅 Jan 20, 2026 - HTML Basics(Images & Links)</summary>
-  
-- **Today's Topic:** HTML Basics (Images & Links)
+<summary>✅ 2026-01-20: HTML Basics (Images & Links)</summary>
 
-- **What I Learned:** - How to embed images using the `<img>` tag.
-  - How to create hyperlinks to other pages using the `<a>` tag.
-  </details>
-
- <details>   
-### <Summary>📅 Jan 24, 2026 - Cat</Summary>
-<!DOCTYPE html>
-
-<html lang="en">
-  <head>
-    <meta charset=utf-8>
-    <title>CatPhotoApp</title>
-  </head>
-  <body>
-    <main>
-      <h1>CatPhotoApp</h1>
-      <section>
-        <h2>Cat Photos</h2>
-        <p>Everyone loves <a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg">cute cats</a> online!</p>
-        <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
-        <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
-      </section>
-      <section>
-        <h2>Cat Lists</h2>
-        <h3>Things cats love:</h3>
-        <ul>
-          <li>catnip</li>
-          <li>laser pointers</li>
-          <li>lasagna</li>
-        </ul>
-        <figure>
-          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
-          <figcaption>Cats <em>love</em> lasagna.</figcaption>  
-        </figure>
-        <h3>Top 3 things cats hate:</h3>
-        <ol>
-          <li>flea treatment</li>
-          <li>thunder</li>
-          <li>other cats</li>
-        </ol>
-        <figure>
-          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Two tabby kittens sleeping together on a couch.">
-          <figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
-        </figure>
-      </section>
-    </main>
-    <footer>
-      <p>
-        No Copyright - <a href="https://www.freecodecamp.org">freeCodeCamp.org</a>
-      </p>
-    </footer>
-  </body>
-</html>
+- **What I Learned:** How to embed images using the `<img>` tag and create hyperlinks using the `<a>` tag.
 </details>
 
 <details>
-### <Summary>📅 Jan 25, 2026 - Cat</Summary>
-  
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>Chocolate Cake Recipe</title>
-  </head>
-  <body>
-    <h1>Chocolate Cake</h1>
+<summary>✅ 2026-01-24: Cat Photo App</summary>
 
-    <img
-      src="https://glutenfreeonashoestring.com/wp-content/uploads/2016/05/One-bowl-gluten-free-chocolate-cake-single-layer-slice-being-eaten.jpg"
-      alt="A slice of chocolate cake"
-    >
+- **What I Learned:** How to use lists (`<ul>`, `<ol>`) and organize content into sections.
+</details>
 
-    <p>This is a simple and delicious chocolate cake recipe.</p>
+<details>
+<summary>✅ 2026-01-25: Chocolate Cake Recipe</summary>
 
-    <h2>Ingredients</h2>
-    <ul>
-      <li>Flour</li>
-      <li>Sugar</li>
-      <li>Cocoa powder</li>
-      <li>Eggs</li>
-    </ul>
-
-    <h2>Instructions</h2>
-    <ol>
-      <li>Preheat the oven.</li>
-      <li>Mix the dry ingredients.</li>
-      <li>Add the eggs and stir well.</li>
-      <li>Bake for 30 minutes.</li>
-    </ol>
-
-    <p>Enjoy :)</p>
-  </body>
-</html>
-
+- **What I Learned:** Building a full page structure and organizing a recipe layout.
 </details>
