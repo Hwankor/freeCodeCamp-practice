@@ -1,104 +1,65 @@
-# freeCodeCamp-practice
-
-markdown
-
-<details>
-### <summary>📅 Jan 20, 2026 - HTML Basics(Images & Links)</summary>
-  
-- **Today's Topic:** HTML Basics (Images & Links)
-
-- **What I Learned:** - How to embed images using the `<img>` tag.
-  - How to create hyperlinks to other pages using the `<a>` tag.
-  </details>
-
- <details>   
-### <summary>📅 Jan 24, 2026 - Webpage building practice(cat)</summary>
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset=utf-8>
-    <title>CatPhotoApp</title>
-  </head>
-  <body>
-    <main>
-      <h1>CatPhotoApp</h1>
-      <section>
-        <h2>Cat Photos</h2>
-        <p>Everyone loves <a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg">cute cats</a> online!</p>
-        <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
-        <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
-      </section>
-      <section>
-        <h2>Cat Lists</h2>
-        <h3>Things cats love:</h3>
-        <ul>
-          <li>catnip</li>
-          <li>laser pointers</li>
-          <li>lasagna</li>
-        </ul>
-        <figure>
-          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
-          <figcaption>Cats <em>love</em> lasagna.</figcaption>  
-        </figure>
-        <h3>Top 3 things cats hate:</h3>
-        <ol>
-          <li>flea treatment</li>
-          <li>thunder</li>
-          <li>other cats</li>
-        </ol>
-        <figure>
-          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Two tabby kittens sleeping together on a couch.">
-          <figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
-        </figure>
-      </section>
-    </main>
-    <footer>
-      <p>
-        No Copyright - <a href="https://www.freecodecamp.org">freeCodeCamp.org</a>
-      </p>
-    </footer>
-  </body>
-</html>
-</details>
-
-<details>
-### <Summary>📅 Jan 25, 2026 - Webpage building practice(Chocolate cake)</Summary>
-  
-<!DOCTYPE html>
-<html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8">
-    <title>Chocolate Cake Recipe</title>
-  </head>
-  <body>
-    <h1>Chocolate Cake</h1>
+    <title>My Web Development Journey</title>
+    <style>
+        /* 가독성을 위해 구분을 좀 해줄게요 */
+        section { border-bottom: 2px solid #ccc; padding: 20px 0; }
+        details { cursor: pointer; background: #f9f9f9; padding: 10px; margin: 10px 0; border-radius: 5px; }
+        summary { font-weight: bold; font-size: 1.2em; }
+    </style>
+</head>
+<body>
+    <h1>My freeCodeCamp Learning Journey</h1>
+    <p>여태까지 제가 공부한 내용들을 한 페이지에 모았습니다.</p>
 
-    <img
-      src="https://glutenfreeonashoestring.com/wp-content/uploads/2016/05/One-bowl-gluten-free-chocolate-cake-single-layer-slice-being-eaten.jpg"
-      alt="A slice of chocolate cake"
-    >
+    <section>
+        <details>
+            <summary>📅 Jan 20, 2026 - HTML Basics(Images & Links)</summary>
+            <h2>HTML Basics</h2>
+            <p>Today's Topic: HTML Basics (Images & Links)</p>
+            <p>What I Learned: How to embed images and create hyperlinks.</p>
+        </details>
+    </section>
 
-    <p>This is a simple and delicious chocolate cake recipe.</p>
+    <section>
+        <details>
+            <summary>📅 Jan 24, 2026 - Cat Photo App</summary>
+            <h2>CatPhotoApp</h2>
+            <main>
+                <h3>Cat Photos</h3>
+                <p>Everyone loves <a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg">cat photos</a>.</p>
+                <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back." width="300">
+                <h3>Cat Lists</h3>
+                <ul>
+                    <li>catnip</li>
+                    <li>laser pointers</li>
+                    <li>lasagna</li>
+                </ul>
+            </main>
+        </details>
+    </section>
 
-    <h2>Ingredients</h2>
-    <ul>
-      <li>Flour</li>
-      <li>Sugar</li>
-      <li>Cocoa powder</li>
-      <li>Eggs</li>
-    </ul>
+    <section>
+        <details>
+            <summary>📅 Jan 25, 2026 - Chocolate Cake Recipe</summary>
+            <h2>Chocolate Cake</h2>
+            <img src="https://glutenfreeonashoestring.com/wp-content/uploads/2016/05/One-bowl-gluten-free-chocolate-cake-single-layer-slice-being-eaten.jpg" alt="A slice of chocolate cake" width="300">
+            <p>This is a simple and delicious chocolate cake recipe.</p>
+            <h3>Ingredients</h3>
+            <ul>
+                <li>Flour, Sugar, Cocoa powder, Eggs</li>
+            </ul>
+            <h3>Instructions</h3>
+            <ol>
+                <li>Preheat the oven.</li>
+                <li>Mix dry ingredients and add eggs.</li>
+                <li>Bake for 30 minutes.</li>
+            </ol>
+            <p>enjoy:)</p>
+        </details>
+    </section>
 
-    <h2>Instructions</h2>
-    <ol>
-      <li>Preheat the oven.</li>
-      <li>Mix the dry ingredients.</li>
-      <li>Add the eggs and stir well.</li>
-      <li>Bake for 30 minutes.</li>
-    </ol>
-
-    <p>Enjoy :)</p>
-  </body>
+</body>
 </html>
-
-</details>
