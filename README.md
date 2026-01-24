@@ -3,7 +3,7 @@
 Welcome! This repository tracks my daily progress through the **freeCodeCamp** curriculum.
 
 ## 🚀 Live Demo
-> **[Click Here to view my Chocolate Cake Recipe Page](https://hwankor.github.io/freeCodeCamp-practice/)**
+> **[Check my practicing](https://hwankor.github.io/freeCodeCamp-practice/)**
 > *Experience the actual rendered version of my code!*
 
 ---
