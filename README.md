@@ -61,3 +61,41 @@ markdown
   </body>
 </html>
 </details>
+
+<details>
+### <Summary>📅 Jan 25, 2026 - Cat</Summary>
+
+html
+
+<!DOYCTYPE html>
+<html lang="en">
+  <head>
+    <title>Chocolate cake recipe</title>
+    <meta charset="UTF-8">
+    </head>
+    <body>
+      <h1>Chocolate Cake</h1>
+      <img src="https://glutenfreeonashoestring.com/wp-content/uploads/2016/05/One-bowl-gluten-free-chocolate-cake-single-layer-slice-being-eaten.jpg" alt="yummy dummy chocolate cake">
+      <p>This is a simple and delicious chocolate cake recipe.</p>
+
+      <h2>ingredients</h2>
+      <img src="https://media.istockphoto.com/id/2156396111/ko/%EC%82%AC%EC%A7%84/%EA%B5%AD%EB%82%B4-%EB%B6%80%EC%97%8C%EC%97%90%EC%84%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EB%8B%88-%EA%B5%BD%EA%B8%B0.jpg?s=612x612&w=0&k=20&c=TxyZ7A2b4yjVRJTpHh-zfBQfQTaZ1qdBA8mUpBpWk6o=" alt="chocolate cake ingredient">
+      <ul>
+      <li>Flour</li>
+      <li>Sugar</li>
+      <li>Cocoa powder</li>
+      <li>Eggs</li>
+      </ul>
+
+      <h2>instruction</h2>
+      <ol>
+      <li>Preheat the oven.</li>
+      <li>Mix the dry ingredients.</li>
+      <li>Add the eggs and stir well.</li>
+      <li>Bake for 30 minutes.</li>
+    </ol>
+
+    <p>enjoy:)</p>
+    </body>
+    </html>
+</details>
