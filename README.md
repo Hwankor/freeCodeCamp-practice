@@ -38,7 +38,7 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
 <summary><b>[2026-01-25] Chocolate Cake Recipe Project</b></summary>
 
 - **Core Concept:** Real-world application of HTML.
-- **Key Tags:** Combined all previous tags into a complete, structured recipe layout.
+- **Key Tags:** Practicing to create a simple web page.
 </details>
 
 ---
