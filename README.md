@@ -3,7 +3,7 @@
 This is where I record my progress as I learn web development.
 
 ## 🍰 Live Demo
-- [View my Chocolate Cake Recipe Page](https://hwankor.github.io/freeCodeCamp-practice/)
+- [My coding practicing link](https://hwankor.github.io/freeCodeCamp-practice/)
 *(Click the link above to see the actual website!)*
 
 ---
@@ -25,5 +25,5 @@ This is where I record my progress as I learn web development.
 <details>
 <summary>✅ 2026-01-25: Chocolate Cake Recipe</summary>
 
-- **What I Learned:** Building a full page structure and organizing a recipe layout.
+- **What I Learned:** Building a full page structure
 </details>
