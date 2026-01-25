@@ -14,7 +14,8 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
 | :--- | :--- | :--- |
 | 2026-01-20 | HTML Basics | ✅ Completed |
 | 2026-01-24 | Cat Photo App | ✅ Completed |
-| 2026-01-25 | Recipe Project | ✅ Completed |
+| 2026-01-25 | Chocolate cake | ✅ Completed |
+| 2026-01-26 | Bookstore page | ✅ Completed |
 
 <br>
 
@@ -41,5 +42,15 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
 - **Key Tags:** Practicing to create a simple web page.
 </details>
 
+<details>
+  <summary><b>[2026-01-26] Building a Bookstore Page</b></summary>
+
+- **Core Concept:** Understanding Document Structure and Identification.
+  - Learned how to use container elements to **group related content** for better organization.
+  - Understood the difference between unique identification (`id`) and reusable styling (`class`).
+- **Key Tags & Attributes:** - `<div>`: A generic container used to group elements together for layout purposes.
+  - `class`: An attribute used to apply the same style to multiple elements (e.g., `.btn`).
+  - `id`: A unique identifier for a specific element (e.g., `#sally-adventure-book`).
+</details>
 ---
 *Last updated: Jan 2026*
