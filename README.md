@@ -17,6 +17,7 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
 | 2026-01-25 | Chocolate cake | ✅ Completed |
 | 2026-01-26 | Bookstore page | ✅ Completed |
 | 2026-01-27 | Travel Package Page | ✅ Completed |
+| 2026-01-28 | How to upload video | ✅ Completed |
 
 <br>
 
@@ -60,10 +61,17 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
 
   -**Core Concept:** Understanding that meta descriptions influence click-through rates and indirectly impact SEO(Search engine optimization 검색엔진 최적화), rather than directly affecting search rankings.
 - **Key Tags:**
-  -  <meta name="description"> : Summarizes page contents, impact for CTS indirectly
-  -  <figure> : a container for self-contained content. element to group an image, and its caption as a single unit.
-  -  <figcation> : Briefly summarize the image's intent. Provide context for users and Enhance accessibility
+  -  meta name="description" : Summarizes page contents, impact for CTS indirectly
+  -  figure : a container for self-contained content. element to group an image, and its caption as a single unit.
+  -  figcation : Briefly summarize the image's intent. Provide context for users and Enhance accessibility
 
+<details>
+  <summary><b>[2026-01-28] Travel Package Page</b></summary>
+  -**Core Concept:** I realized that building a page with video does not mean embedding the media itself, but structuring it with HTML elements and attributes so the browser can load and control the media properly
+  -**Key Tags:**
+   - src: points to the media file location
+   - type: specifies the media MIME type (e.g. video/mp4)
+   - controls: enables built-in playback controls
 </details>
 ---
 *Last updated: Jan 2026*
