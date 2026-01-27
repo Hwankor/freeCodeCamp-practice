@@ -73,5 +73,6 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
    - type: specifies the media MIME type (e.g. video/mp4)
    - controls: enables built-in playback controls
 </details>
+
 ---
 *Last updated: Jan 2026*
