@@ -68,8 +68,10 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
 
 <details>
   <summary><b>[2026-01-28] Audio/Video Player</b></summary>
+  
   -**Core Concept:** I realized that building a page with video does not mean embedding the media itself, but structuring it with HTML elements and attributes so the browser can load and control the media properly
-  -**Key Tags:**
+  
+ - **Key Tags:**
    - type: specifies the media MIME type (e.g. video/mp4)
    - controls: Essential attribute that enables built-in playback features like play, pause, and volume.
 </details>
