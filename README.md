@@ -18,6 +18,7 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
 | 2026-01-26 | Bookstore page | ✅ Completed |
 | 2026-01-27 | Travel Package Page | ✅ Completed |
 | 2026-01-28 | How to upload video | ✅ Completed |
+| 2026-01-29 | Video Compilation Page | ✅ Completed |
 
 <br>
 
@@ -74,6 +75,17 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
  - **Key Tags:**
    - type: specifies the media MIME type (e.g. video/mp4)
    - controls: Essential attribute that enables built-in playback features like play, pause, and volume.
+</details>
+
+<details>
+  <summary><b>[2026-01-29] Video Compilation Page</b></summary>
+  
+  -**Core Concept:** 
+     -To prevent the 'connection refused' error, developers must convert standard URLs into the embed format for iframe integration.
+     -Including hardware permissions like accelerometer and gyroscope ensures future-proofing and supports interactive embedded features across all devices
+ - **Key Tags:**
+   -Main : It wraps the dominant content of the document.
+   -Iframe : An embedded element used to display another HTML page (like a YouTube video or a map) inside your current page.
 </details>
 
 ---
