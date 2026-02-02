@@ -91,15 +91,19 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
 
 <details>
   <summary><b><time datetime="2026-02-02T21:04">[2026-02-02]</time> blockqoute Attibute</b></summary>
-  
-  -**Core Concept:** 
-    -developer should use <time> attibbute for Machine-readable!
-    -<adress> attibute offer you better enviroment for contacting through email and phone call! Tho you better be careful for ㅔpersonal information exposure 
-  -**Key Tags:**
-    -blockquote: For extended, block-level quotations.(긴 문단 단위 인용 할 때.)
-    -q : For short, inline quotations.(문장 내 짧은 인용, 자동 따옴표를 생성!)
-    -address : To wrap contact information(연락처 정보 묶음.)
-    -time : To represent date/times with datetime.
+  <br>
+  <h4>Core Concept:</h4>
+    <ul>
+   <li>developer should use <time> attibbute for Machine-readable!</li
+    <li><adress> attibute offer you better enviroment for contacting through email and phone call! Tho you better be careful for personal information exposure </li>
+    </ul>
+  <h4>Key Tags:</h4>
+      <ul>
+    <li>blockquote: For extended, block-level quotations.(긴 문단 단위 인용 할 때.)</li>
+    <li>q : For short, inline quotations.(문장 내 짧은 인용, 자동 따옴표를 생성!)</li>
+    <li>address : To wrap contact information(연락처 정보 묶음.)</li>
+    <li>time : To represent date/times with datetime.</li>
+      </ul>
 </details>
 
 
