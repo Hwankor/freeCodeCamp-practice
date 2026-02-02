@@ -19,6 +19,7 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
 | 2026-01-27 | Travel Package Page | ✅ Completed |
 | 2026-01-28 | How to upload video | ✅ Completed |
 | 2026-01-29 | Video Compilation Page | ✅ Completed |
+| 2026-02-02 | blockqoute Attibute | ✅ Completed |
 
 <br>
 
@@ -88,5 +89,19 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
    -Iframe : An embedded element used to display another HTML page (like a YouTube video or a map) inside your current page.
 </details>
 
+<details>
+  <summary><b><time datetime="2026-02-02T21:04">[2026-02-02]</time> blockqoute Attibute</b></summary>
+  
+  -**Core Concept:** 
+    -developer should use <time> attibbute for Machine-readable!
+    -<adress> attibute offer you better enviroment for contacting through email and phone call! Tho you better be careful for ㅔpersonal information exposure 
+  -**Key Tags:**
+    -blockquote: For extended, block-level quotations.(긴 문단 단위 인용 할 때.)
+    -q : For short, inline quotations.(문장 내 짧은 인용, 자동 따옴표를 생성!)
+    -address : To wrap contact information(연락처 정보 묶음.)
+    -time : To represent date/times with datetime.
+</details>
+
+
 ---
-*Last updated: Jan 2026*
+*Last updated: Feb 2026*
