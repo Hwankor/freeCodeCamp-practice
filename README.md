@@ -90,12 +90,12 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
 </details>
 
 <details>
-  <summary><b><time datetime="2026-02-02T21:04">[2026-02-02]</time> blockqoute Attibute</b></summary>
+  <summary><b><time datetime="2026-02-02T21:04">[2026-02-02]</time> blockquote Attibute</b></summary>
   <br>
   <h4>Core Concept:</h4>
     <ul>
-   <li>developer should use <time> attibbute for Machine-readable!</li
-    <li><adress> attibute offer you better enviroment for contacting through email and phone call! Tho you better be careful for personal information exposure </li>
+   <li>developer should use <time> attribute for Machine-readable!</li
+    <li><adress> attribute offer you better enviroment for contacting through email and phone call! Tho you better be careful for personal information exposure </li>
     </ul>
   <h4>Key Tags:</h4>
       <ul>
