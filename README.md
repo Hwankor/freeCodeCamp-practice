@@ -20,6 +20,7 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
 | 2026-01-28 | How to upload video | ✅ Completed |
 | 2026-01-29 | Video Compilation Page | ✅ Completed |
 | 2026-02-02 | blockqoute Attibute | ✅ Completed |
+| 2026-02-03 | Events hub Page | ✅ Completed |
 
 <br>
 
@@ -106,6 +107,21 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
       </ul>
 </details>
 
-
+<details>
+  <summary><b><time datetime="2026-02-03">[2026-02-03]</time>Events hub</b></summary>
+  <br>
+  <h4>Core Concept:</h4>
+   <li>For better navigation experience, developers should use id and href attributes to create "Digital Landmarks" inside the page!</li>
+  <li>For better machine-readable data, developers should use figure and figcaption to explicitly connect media with its description</li>
+    </ul>
+  
+  <h4>Key Tags:</h4>
+      <ul>
+    <li>sup, sub: Superscript (exponents) and Subscript (chemical formulas)(윗 첨자와 아랫첨자)</li>
+    <li>header: Defines a container for introductory content or a set of navigational links.</li>
+    <li>section: Defines a generic standalone section of a document based on a theme(주제별!! 섹션)</li>
+   
+      </ul>
+</details>
 ---
 *Last updated: Feb 2026*
