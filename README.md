@@ -21,6 +21,7 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
 | 2026-01-29 | Video Compilation Page | ✅ Completed |
 | 2026-02-02 | blockqoute Attibute | ✅ Completed |
 | 2026-02-03 | Events hub Page | ✅ Completed |
+| 2026-02-08 | Hotel Feedback Page | ✅ Completed |
 
 <br>
 
@@ -121,7 +122,26 @@ Welcome! This repository tracks my daily progress through the **freeCodeCamp** c
     <li>header: Defines a container for introductory content or a set of navigational links.</li>
     <li>section: Defines a generic standalone section of a document based on a theme(주제별!! 섹션)</li>
    
-      </ul>
+</ul>
 </details>
+
+
+<details>
+  <summary><b><time datetime="2026-02-08">[2026-02-08]</time>Hotel Feedback</b></summary>
+  <br>
+  <h4>Core Concept:</h4>
+   <li>Explicit Labeling: This is necessary because it logically links labels to inputs, improving accessibility by allowing users to focus on a field just by clicking the label text.</li>
+  <li>State Management: To create a more sophisticated UI, managing input states is necessary. It prevents incorrect data entry by disabling fields until specific conditions are met.</li>
+    </ul>
+  
+  <h4>Key Tags:</h4>
+      <ul>
+    <li>legend : title in a 'group box'</li>
+    <li>for(label), id(input) : Creating an explicit link between the text label and the input filed.</li>
+    <li>checked, selected : pre-selecting option for user</li>
+   
+</ul>
+</details>
+
 ---
 *Last updated: Feb 2026*
